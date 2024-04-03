@@ -1,4 +1,8 @@
+
+
 ```bash
+git pull https://github.com/zackoch/river_data/tree/main .
+cd river_data
 python3 -m venv venv
 source ./venv/bin/activate
 pip install -r requirements.txt
