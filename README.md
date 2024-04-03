@@ -1,7 +1,7 @@
 
 
 ```bash
-git pull https://github.com/zackoch/river_data/tree/main .
+git pull https://github.com/zackoch/river_data .
 cd river_data
 python3 -m venv venv
 source ./venv/bin/activate
